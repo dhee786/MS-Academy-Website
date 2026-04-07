@@ -2,7 +2,8 @@
 
 A modern, fully responsive, and highly interactive frontend website for **MS Academy (Mind Sharper Academy)** – a premier English medium tuition center for students from Nursery to Class 10.
 
-![MS Academy Overview](images/Image_1.jpeg)
+![MS Academy Overview](<img width="1897" height="907" alt="image_2" src="https://github.com/user-attachments/assets/5d9b6d35-88db-443b-92d2-07a48f499c8a" />
+)
 
 ## 🌟 Features
 - **Dynamic Hero Section:** Engaging floating particles, emoji rain, and typing animations to keep children and parents interested.
